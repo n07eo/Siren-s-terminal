@@ -1,0 +1,7 @@
+{
+  "name": "Siren OS - Siren Language AI Assistant & Terminal",
+  "description": "An interactive Arch tiling terminal environment with Siren REPL, system monitor, and an AI chatbot specialized in the Siren programming language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
